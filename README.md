@@ -41,8 +41,6 @@ git clone https://github.com/yourusername/loan-prediction.git
 cd loan-prediction
 ```
 
-````
-
 2. **Install Dependencies**
 
 ```bash
@@ -90,4 +88,3 @@ The model achieved a testing accuracy of **82%** (replace with actual value).
 ```
 
 ```
-````
