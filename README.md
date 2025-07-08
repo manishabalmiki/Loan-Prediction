@@ -1,6 +1,3 @@
-Here is your finalized `README.md` file — ready to copy and paste directly into your GitHub repository:
-
-````markdown
 # Loan Prediction Using Machine Learning
 
 This project aims to predict whether a loan should be approved or not based on applicant details using supervised machine learning models. The dataset used is from the Loan Prediction practice problem on platforms like Analytics Vidhya or Kaggle.
@@ -43,6 +40,7 @@ The dataset includes the following columns:
 git clone https://github.com/yourusername/loan-prediction.git
 cd loan-prediction
 ```
+
 ````
 
 2. **Install Dependencies**
@@ -86,9 +84,10 @@ The model achieved a testing accuracy of **82%** (replace with actual value).
 
 ## 👩‍💻 Author
 
-**Manisha Balmiki**  
+**Manisha Balmiki**
 📎 [LinkedIn](https://www.linkedin.com/) | 🖥 [GitHub](https://github.com/)
 
 ```
 
 ```
+````
